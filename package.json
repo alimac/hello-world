@@ -8,6 +8,6 @@
     },
     "repository": {
         "type":"git",
-        "url":"http://github.com/alimac/hello-world"
+        "url":"http://github.com/alimac/hello-world.git"
     }
 }
